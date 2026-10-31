@@ -1,0 +1,15 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente e segredos (NUNCA commitar)
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+
