@@ -71,7 +71,7 @@ Implementamos **todas as 6 melhorias sugeridas** no desafio da DIO:
 ### 3. Configurar o Ambiente Local
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/dio-agente-tarefas-trello.git
+git clone https://github.com/LuciannErlan/dio-agente-tarefas-trello.git
 cd dio-agente-tarefas-trello
 
 # 2. Crie e ative o ambiente virtual (Python 3.10+)
